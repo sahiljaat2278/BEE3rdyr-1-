@@ -1,0 +1,10 @@
+here doing call back using fs.readfile method.
+
+
+EVENT LOOP STATUS
+Expired timer
+i/o polling
+set timestate
+close call back
+yes/no
+if no <exit
